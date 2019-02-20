@@ -55,6 +55,7 @@ selector {
   /* Psuedo Selector */ 
   
   #details a:link {
-  color: black;
-  
+  color: black
+  text-decoration: none;
+  }
   
