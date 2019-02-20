@@ -60,5 +60,6 @@ selector {
     text-decoration: none;
   }
   
-  #details a: 
-  
+  #details a: hover {
+    color: black;
+    
